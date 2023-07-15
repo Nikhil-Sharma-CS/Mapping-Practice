@@ -115,7 +115,7 @@ I'm a full stack developer trainee at Geekster. I have knowledge of Java, OOPs, 
 - *Here we also used the concept of **Mapping** which uses **Foreign Keys** to define relation between 2 tables.*
 ## Summary
 
-*This project performs the task of managing Orders with various types of API's like **Get, Post, Put, Delete***.
+*This project performs the task of managing Student data with various types of API's like **Get, Post, Put, Delete***.
 
 *This project is also connected to a relational data which is the data source of this project.*
 
